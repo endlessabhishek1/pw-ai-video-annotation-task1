@@ -37,7 +37,7 @@ the next step, not yet implemented here.
 ## 🏃 How to Run
 1. Open the notebook in Google Colab.
 2. Ensure `QuestionPPT.pptx.jpg` and `Audio.mpeg` are in the working directory.
-3. Run all cells to export `PW_Pen_Stroke_Solution.mp4`.
+3. Run all cells to export `PW Annotated video.mp4`.
 
 ## Next steps (full automation)
 - Whisper for word-level timestamps instead of manual timing
